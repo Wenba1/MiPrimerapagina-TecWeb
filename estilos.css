@@ -1,0 +1,41 @@
+.letritas {
+    font-style: italic;
+    font-weight: italic;
+    padding: 2px;
+    color: white;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: black;
+    text-align: justify;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: whitesmoke;
+}
+.datos{
+    text-align: center;
+    font-style:initial
+}
+.titul{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color:gainsboro;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color:purple;
+    background-clip: content-box;
+}
+.mask{
+    font-style:oblique;
+    font-weight: bolder;
+    padding-left: 5px;
+    color: rebeccapurple;
+}
+.alb{
+    text-align: justify;
+    color: gray;
+}
